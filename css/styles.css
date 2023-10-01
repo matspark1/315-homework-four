@@ -95,7 +95,7 @@ p {
 #modal-inject .modal-wrapper {
   margin: 0 auto;
   width: 565px;
-  min-height: 60vh;
+  min-height: 525px;
   border-radius: 40px;
   background-color: #202020;
   padding: 20px 30px;
@@ -206,7 +206,7 @@ p {
   display: none;
   margin: 0 auto;
   width: 565px;
-  min-height: 60vh;
+  min-height: 525px;
   border-radius: 40px;
   background-color: #202020;
   padding: 20px 30px;
